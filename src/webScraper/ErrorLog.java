@@ -1,4 +1,4 @@
-package netbeanscrawler;
+package webScraper;
 
 import java.io.*;
 import java.io.IOException;

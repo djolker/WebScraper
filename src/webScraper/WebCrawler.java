@@ -2,7 +2,7 @@
 //Idealy, all the parsing tools will be grouped, and all the connection tools will
 //be seperate.
 
-package netbeanscrawler;
+package webScraper;
 
 import java.io.BufferedReader;
 import java.io.IOException;
